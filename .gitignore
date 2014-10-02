@@ -1,1 +1,3 @@
 webgl-solarsystem.sublime-project
+/vendor
+/node-modules
